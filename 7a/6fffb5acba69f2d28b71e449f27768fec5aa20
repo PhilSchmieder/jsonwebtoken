@@ -1,0 +1,47 @@
+README.md
+  s_c2f002bfa2f953::t_d0b548d7befb59 40-42
+src/crypto/aws_lc/ml_dsa.rs
+  s_c2f002bfa2f953::t_e54662372e2160 1-90
+src/crypto/aws_lc/mod.rs
+  s_c2f002bfa2f953::t_1a0cdd497fd018 5-6,20,75-91,115-117,140-142,157
+src/crypto/mod.rs
+  s_c2f002bfa2f953::t_d3d605abc1a8c6 151-153,180-182
+src/crypto/rust_crypto/ml_dsa.rs
+  s_c2f002bfa2f953::t_fe337e0d598ae1 1-171
+src/crypto/rust_crypto/mod.rs
+  s_c2f002bfa2f953::t_1179ae09aeda17 7-11,26,89-116,139-141,164-166,181
+src/encoding.rs
+  s_c2f002bfa2f953::t_380290a2362dc9 97-107,123-127
+src/pem/decoder.rs
+  s_c2f002bfa2f953::t_d77a013de35590 12-13,29,109-115,191-214,243,252-255,274-276
+tests/lib.rs
+  s_c2f002bfa2f953::t_8de8b8f056b489 5
+tests/ml_dsa/private_ml_dsa_44.pem
+  s_c2f002bfa2f953::t_25b94790fa9fdb 1-4
+tests/ml_dsa/private_ml_dsa_65.pem
+  s_c2f002bfa2f953::t_afb865d275459a 1-4
+tests/ml_dsa/private_ml_dsa_87.pem
+  s_c2f002bfa2f953::t_e2b5515e72fd3b 1-4
+tests/ml_dsa/public_ml_dsa_44.pem
+  s_c2f002bfa2f953::t_5acdcf46d90bb6 1-30
+tests/ml_dsa/public_ml_dsa_65.pem
+  s_c2f002bfa2f953::t_a2d48d61400f9a 1-44
+tests/ml_dsa/public_ml_dsa_87.pem
+  s_c2f002bfa2f953::t_78f7fbf9600134 1-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7a6fffb5acba69f2d28b71e449f27768fec5aa20",
+  "prompts": {},
+  "sessions": {
+    "s_c2f002bfa2f953": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_008e89a15ffePX4CLb41s4KMWc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Phil Schmieder <pschmieder@cloudflare.com>"
+    }
+  }
+}
