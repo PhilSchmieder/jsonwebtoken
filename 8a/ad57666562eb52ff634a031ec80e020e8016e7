@@ -1,0 +1,19 @@
+Cargo.toml
+  s_3e1a340ca29f6e::t_f4ac383cee8f86 3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8aad57666562eb52ff634a031ec80e020e8016e7",
+  "prompts": {},
+  "sessions": {
+    "s_3e1a340ca29f6e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe6d5e299ffetLBjNEcM6E0LOy",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Phil Schmieder <pschmieder@cloudflare.com>"
+    }
+  }
+}
