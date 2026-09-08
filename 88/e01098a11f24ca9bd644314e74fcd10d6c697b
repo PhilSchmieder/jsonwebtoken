@@ -1,0 +1,37 @@
+src/crypto/aws_lc/ml_dsa.rs
+  s_c5ec77d82c7553::t_8f2e6d4c0e53ca 96-98,105-126,131-157
+  s_c5ec77d82c7553::t_4a0cf050a7570a 99-102,127-130
+  s_c5ec77d82c7553::t_d35d455a92d00d 93-95
+  s_c5ec77d82c7553::t_5e54a039b4cd56 103-104
+  s_c5ec77d82c7553::t_13f9414fa23813 158
+src/crypto/rust_crypto/ml_dsa.rs
+  s_9eb5d6ef472a31::t_5d9ee5504825e9 106-130,132-135,137-140,142-145,148-152,170,172,187
+  s_9eb5d6ef472a31::t_5caa873ddf9a87 147
+  s_9eb5d6ef472a31::t_fbc3ae7f972eec 153-155,167-169
+  s_9eb5d6ef472a31::t_ee85be6b2f6727 171
+  s_9eb5d6ef472a31::t_f7c2a8e910b6c3 184-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "88e01098a11f24ca9bd644314e74fcd10d6c697b",
+  "prompts": {},
+  "sessions": {
+    "s_9eb5d6ef472a31": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa24d1b8affe729HGB4lswEYtb",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Phil Schmieder <pschmieder@cloudflare.com>"
+    },
+    "s_c5ec77d82c7553": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f9db9b01bffeBP8j243d5Jrv16",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Phil Schmieder <pschmieder@cloudflare.com>"
+    }
+  }
+}
