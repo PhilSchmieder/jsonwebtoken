@@ -1,0 +1,24 @@
+src/jwk.rs
+  s_c5ec77d82c7553::t_9ffd88736780b0 943-944,948-949,952,1028
+  s_c5ec77d82c7553::t_ab7c49620e2e68 531,534,537,541-542,555-558,569-573,779-782
+src/decoding.rs
+  s_c5ec77d82c7553::t_1196deba37a06d 278-279
+  s_c5ec77d82c7553::t_ab7c49620e2e68 274-277
+  s_c5ec77d82c7553::t_7c15ec41320d9c 271-273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c6557e0f45b05e6b8deac10a66707f13e7703985",
+  "prompts": {},
+  "sessions": {
+    "s_c5ec77d82c7553": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f9db9b01bffeBP8j243d5Jrv16",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Phil Schmieder <pschmieder@cloudflare.com>"
+    }
+  }
+}
